@@ -17,8 +17,8 @@
     "node": "6.14.1"
   },
   "dependencies": {
-    "adm-zip": "0.4.7",
-    "express": "3.21.2"
+    "adm-zip": "0.4.11",
+    "express": "4.15.5"
   },
   "devDependencies": {
     "browserify": "^13.1.1",
