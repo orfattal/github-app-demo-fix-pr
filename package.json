@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "adm-zip": "0.4.7",
-    "express": "3.21.2"
+    "express": "4.0.0"
   },
   "devDependencies": {
     "browserify": "^13.1.1",
